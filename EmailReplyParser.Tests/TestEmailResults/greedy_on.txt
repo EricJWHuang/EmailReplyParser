@@ -1,0 +1,6 @@
+On your remote host you can run:
+
+     telnet 127.0.0.1 52698
+
+This should connect to TextMate (on your Mac, via the tunnel). If that
+fails, the tunnel is not working.
