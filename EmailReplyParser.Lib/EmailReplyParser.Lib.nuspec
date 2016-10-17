@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EmailReplyParser.NET</id>
+    <version>1.0.0</version>
+    <title>Email Reply Parser</title>
+    <authors>Eric Huang</authors>
+    <owners>Eric Huang</owners>
+    <projectUrl>https://github.com/EricJWHuang/EmailReplyParser</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET clone of github email_reply_parser</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Email Reply Parser Parse</tags>
+  </metadata>
+</package>

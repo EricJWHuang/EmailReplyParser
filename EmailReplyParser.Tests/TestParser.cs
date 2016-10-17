@@ -43,7 +43,7 @@ namespace EmailReplyParser.Tests
             var email = LoadFile(string.Format("EmailReplyParser.Tests.TestEmails.{0}", fileName));
             var expectedReply = LoadFile(string.Format("EmailReplyParser.Tests.TestEmailResults.{0}", fileName)).Replace("\r\n", "\n");
 
-            var parser = new Lib.EmailReplyParser();
+            var parser = new Lib.Parser();
             var reply = parser.ParseReply(email);
 
             Assert.AreEqual(expectedReply, reply);

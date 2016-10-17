@@ -40,7 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Email.cs" />
-    <Compile Include="EmailReplyParser.cs" />
+    <Compile Include="Parser.cs" />
     <Compile Include="Fragment.cs" />
     <Compile Include="Extensions\LineExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

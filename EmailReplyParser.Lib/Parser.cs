@@ -3,7 +3,7 @@
     /// <summary>
     /// A text parser to extract reply from email body.
     /// </summary>
-    public class EmailReplyParser
+    public class Parser
     {
         /// <summary>
         /// Extra reply from <paramref name="text">email body</paramref>
