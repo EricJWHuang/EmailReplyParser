@@ -1,7 +1,7 @@
 # Email Reply Parser
 
 This is a .NET clone of the very simple but super useful [github email reply parser] (https://github.com/github/email_reply_parser)
-- Medium:
+- Medium: https://medium.com/@ericjwhuang/email-reply-parser-there-you-go-net-developer-7ce756366f3d
 
 ### How to use it
 - Install the package from [Nuget](https://www.nuget.org/packages/EmailReplyParser.NET)
